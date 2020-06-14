@@ -146,5 +146,8 @@
 			"Name": "DMXProtocol",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"WindowsNoEditor"
 	]
 }
